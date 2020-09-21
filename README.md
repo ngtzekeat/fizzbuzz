@@ -3,4 +3,4 @@
 # foreword
 Writing FizzBuzz is a great way to get insight into someone's programming style, and common as a (extremely basic) interview question. Here are different ways to tackle this problem. Written in Python for your easy comprehension, and in ascending order of complexity.
 # i've thought of a new way to do it and i want to contribute!
-wsw
+Please, email me at ntzekeat@gmail.com!
